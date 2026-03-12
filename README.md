@@ -77,9 +77,15 @@ Software Engineer focused on full-stack systems, quality engineering and scalabl
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegoselva7x&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diegoselva7x&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoselva7x&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoselva7x&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegoselva7x&theme=tokyo-night" />
 </p>
