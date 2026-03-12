@@ -1,7 +1,15 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Quality+Focused+Engineer;Building+Scalable+Systems" />
+</p>
+
 <h1 align="center">Hi, I'm Diego Selva 👋</h1>
 
 <p align="center">
 Software Engineer focused on full-stack systems, quality engineering and scalable software
+</p>
+
+<p align="center">
+Angular • Spring Boot • PostgreSQL • Docker
 </p>
 
 ---
@@ -82,6 +90,10 @@ Software Engineer focused on full-stack systems, quality engineering and scalabl
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoselva7x&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoselva7x&theme=tokyonight&hide_border=true" />
 </p>
 
 ## Activity Graph
