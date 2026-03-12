@@ -92,6 +92,7 @@ Software Engineer focused on full-stack systems, quality engineering and scalabl
 ## Connect With Me
 
 - LinkedIn: [linkedin.com/in/diegoselva](https://linkedin.com/in/diegoselva)
+- Gmail: diegoselva7x@gmail.com
 
 ---
 
