@@ -8,10 +8,6 @@
 Software Engineer focused on full-stack systems, quality engineering and scalable software
 </p>
 
-<p align="center">
-Angular • Spring Boot • PostgreSQL • Docker
-</p>
-
 ---
 
 ## About Me
@@ -28,9 +24,12 @@ Angular • Spring Boot • PostgreSQL • Docker
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
 
 ### Frontend
 
@@ -38,16 +37,30 @@ Angular • Spring Boot • PostgreSQL • Docker
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+---
+
 ### Backend
 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
 
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### AI & Cloud Development
+
+![AI](https://img.shields.io/badge/AI_Development-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud_Development-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
 
 ### Tools
 
