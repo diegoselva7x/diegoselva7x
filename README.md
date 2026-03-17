@@ -34,6 +34,7 @@ Software Engineer focused on full-stack systems, quality engineering and scalabl
 ### Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -58,6 +59,7 @@ Software Engineer focused on full-stack systems, quality engineering and scalabl
 ### AI & Cloud Development
 
 ![AI](https://img.shields.io/badge/AI_Development-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud_Development-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
@@ -67,7 +69,6 @@ Software Engineer focused on full-stack systems, quality engineering and scalabl
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
@@ -109,6 +110,8 @@ Software Engineer focused on full-stack systems, quality engineering and scalabl
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoselva7x&theme=tokyonight&hide_border=true" />
 </p>
+
+---
 
 ## Activity Graph
 
