@@ -94,7 +94,7 @@ Software Engineer focused on full-stack systems, quality engineering and scalabl
 
 - LinkedIn: [linkedin.com/in/diegoselva](https://linkedin.com/in/diegoselva)
 - Gmail: dselva7x@gmail.com
-- Instagram: https://www.instagram.com/diego_selva?igsh=NWI5c3dnenc2YTNu&utm_source=qr
+- Instagram: [instagram.com/diego_selva](https://www.instagram.com/diego_selva?igsh=NWI5c3dnenc2YTNu&utm_source=qr)
 
 ---
 
